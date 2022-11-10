@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roberto Fernandes
-- 👀 I’m interested in Node, React, .Net C#, Java and PHP!
+- 👀 I’m interested in Node, React, .Net C#, Java and Angular!
 - 🌱 I’m currently learning Node Js and React Native
 - 📫 robertocfjr@outlook.com
 
